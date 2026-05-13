@@ -59,7 +59,7 @@
 </ul>
 <h2>▶️ Como Executar o Projeto</h2>
 <ol>
-  <li>1. Clone o repositório: (git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)</li>
+  <li>1. Clone o repositório: (https://github.com/Oliveira-Pietrobon/ETL_Pratico_TechStore.git)</li>
   <li>2. Acesse a pasta: (cd SEU-REPOSITORIO)</li>
   <li>3. Crie um ambiente virtual (Opcional): Windows(python -m venv venv
 venv\Scripts\activate), Linux / Mac(python3 -m venv venv
